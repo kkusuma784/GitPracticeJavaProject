@@ -12,6 +12,14 @@ public class Javaprogrammer {
 		System.out.println("*/");
 		
 		System.out.println();
+		
+		System.out.println("I am a Java Programmer!");
+		System.out.println("I study at Neotech!");
+		System.out.println("I Love Java!!!");
+		System.out.println("*/");
+		
+		System.out.println();
+
 
 	}
 
